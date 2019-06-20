@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="i-google" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.78" height="29.72" viewBox="0 0 34.78 29.72">
+  <defs>
+    <filter id="filter" x="1306.22" y="7872.28" width="34.78" height="29.72" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.5" dy="0.866" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path d="M1318.6,7885.7c0-1.87,4.11-2.41,4.11-6.8,0-2.64-.24-4.23-2.32-5.16,0-.66,3.67-0.23,3.67-1.45h-8.03s-8.12.2-8.12,7.08,7.1,6.08,7.1,6.08v1.74c0,0.71.96,0.47,1.07,1.9-0.48,0-9.86-.25-9.86,5.98s8.27,5.93,8.27,5.93,9.57,0.44,9.57-7.3c0-4.64-5.46-6.13-5.46-8m-6.93-5.93c-0.75-2.76.24-5.44,2.21-5.97s4.18,1.26,4.93,4.03-0.24,5.43-2.21,5.97-4.18-1.27-4.93-4.03m4.11,19.24c-3.31.22-6.13-1.55-6.29-3.97s2.38-4.55,5.69-4.78,6.14,1.55,6.3,3.97-2.39,4.56-5.7,4.78m23.33-21.19v1.73l-5.33.03v5.38l-1.79-.03v-5.38h-5.36l-0.02-1.76h5.38v-5.36l1.79,0.03v5.33Z" transform="translate(-1306.22 -7872.28)"/>
+</svg>
